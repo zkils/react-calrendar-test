@@ -1,0 +1,11 @@
+:local(.contentBody){
+    width: 800px;
+    height: 350px;
+    overflow: hidden;
+}
+
+:local(.googleLoginButton){
+    top: 10px;
+    left:10px;
+
+}

@@ -1,0 +1,6 @@
+:local(.appsButton){
+    float:left;
+}
+:local(.settingButton){
+    float:right;
+}

@@ -1,0 +1,18 @@
+:local(.obButton){
+    width: 120px;
+    height: 65px;
+    background: #39B4E0;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    outline:none;
+}
+
+:local(.obButtonDown){
+    background:#386879;
+}
+
+:local(.obButtonDisabled){
+    background: #c3bdb1;
+    color: #929292;
+}

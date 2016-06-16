@@ -1,0 +1,7 @@
+:local(.root){
+    position: relative;
+    width: 800px;
+    height: 480px;
+    background-color: #d4f4ff;
+    overflow: hidden;
+}
